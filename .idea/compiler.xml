@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="component" />
+        <module name="core" />
+        <module name="refresh" />
+        <module name="thirdparty" />
+        <module name="web" />
+        <module name="webservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="component" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="productlpk" target="1.8" />
+      <module name="refresh" target="1.8" />
+      <module name="thirdparty" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="webservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
