@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/admin" />
+    <file type="web" url="file://$PROJECT_DIR$/refresh" />
+    <file type="web" url="file://$PROJECT_DIR$/thirdparty" />
+    <file type="web" url="file://$PROJECT_DIR$/web" />
+    <file type="web" url="file://$PROJECT_DIR$/webservice" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/core/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/thirdparty/pom.xml" />
+        <option value="$PROJECT_DIR$/component/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

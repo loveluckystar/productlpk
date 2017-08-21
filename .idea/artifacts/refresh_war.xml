@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="refresh:war">
+    <output-path>$PROJECT_DIR$/refresh/target</output-path>
+    <root id="archive" name="refresh.war">
+      <element id="artifact" artifact-name="refresh:war exploded" />
+    </root>
+  </artifact>
+</component>
